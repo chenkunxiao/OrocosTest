@@ -1,0 +1,1 @@
+/home/addison/src/code/CTest/designmode/Singleton/CMakeFiles/test.dir

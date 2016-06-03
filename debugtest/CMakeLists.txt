@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project(test)
+
+AUX_SOURCE_DIRECTORY(. DIR_SRCS)
+
+add_executable(test ${DIR_SRCS})
+target_link_libraries(test pthread /home/addison/Downloads/software/boost_1_53_0/stage/lib/libboost_filesystem.so.1.53.0 /home/addison/Downloads/software/boost_1_53_0/stage/lib/libboost_system.so.1.53.0)

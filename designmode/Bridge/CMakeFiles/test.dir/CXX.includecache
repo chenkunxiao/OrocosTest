@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/addison/src/code/CTest/designmode/Bridge/Abstraction.hpp
+
+/home/addison/src/code/CTest/designmode/Bridge/AbstractionImp.hpp
+
+/home/addison/src/code/CTest/designmode/Bridge/main.cpp
+Abstraction.hpp
+/home/addison/src/code/CTest/designmode/Bridge/Abstraction.hpp
+AbstractionImp.hpp
+/home/addison/src/code/CTest/designmode/Bridge/AbstractionImp.hpp
+iostream
+-
+

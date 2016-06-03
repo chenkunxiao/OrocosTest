@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/addison/src/code/CTest/debugtest/Add.c
+
+/home/addison/src/code/CTest/debugtest/All.c
+stdio.h
+-
+
+/home/addison/src/code/CTest/debugtest/Minus.c
+

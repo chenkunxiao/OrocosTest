@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/addison/src/code/CTest/designmode/Singleton/Singleton.cpp
+Singleton.hpp
+/home/addison/src/code/CTest/designmode/Singleton/Singleton.hpp
+iostream
+-
+
+/home/addison/src/code/CTest/designmode/Singleton/Singleton.hpp
+iostream
+-
+
+/home/addison/src/code/CTest/designmode/Singleton/main.cpp
+Singleton.hpp
+/home/addison/src/code/CTest/designmode/Singleton/Singleton.hpp
+iostream
+-
+
